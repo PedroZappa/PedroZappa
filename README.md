@@ -1,4 +1,12 @@
-### Hi there 👋
+###  Hi there 👋
+
+I'm PedroZappa a musician and developer studenting at [42](https://42.fr) School.
+
+#### I have experience with these Languages 📚
+
+![C](https://img.shields.io/badge/c-0D1117.svg?style=for-the-badge&logo=c&logoColor=3893F5)
+
+#### Tools I have used in my projects 🛠
 
 <!--
 **PedroZappa/PedroZappa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +21,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
