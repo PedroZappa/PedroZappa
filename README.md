@@ -1,6 +1,6 @@
 I'm **PedroZappa** a musician and developer studying at [42](https://42.fr) School.
 
-## Languages 📚
+## Langs 📚
 
 ![shell](https://img.shields.io/badge/shell-0D1117.svg?style=for-the-badge&logo=gnu-bash&logoColor=3893F5)
 ![C](https://img.shields.io/badge/c-0D1117.svg?style=for-the-badge&logo=c&logoColor=3893F5)
@@ -10,7 +10,7 @@ I'm **PedroZappa** a musician and developer studying at [42](https://42.fr) Scho
 ![Javascript](https://img.shields.io/badge/JavaScript-0D1117.svg?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-0D1117.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-### Tools 🛠
+## Tools 🛠
 
 ![vim](https://img.shields.io/badge/neovim-0D1117.svg?style=for-the-badge&logo=neovim&logoColor=019733)
 ![tmux](https://img.shields.io/badge/tmux-0D1117.svg?style=for-the-badge&logo=tmux&logoColor=019733)
