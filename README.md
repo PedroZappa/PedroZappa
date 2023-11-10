@@ -21,4 +21,3 @@ I'm **PedroZappa** a musician and developer studying at [42](https://42.fr) Scho
 ___
 
 [![Zedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroZappa&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroZappa&theme=dark&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
