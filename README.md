@@ -17,3 +17,8 @@ I'm **PedroZappa** a musician and developer studying at [42](https://42.fr) Scho
 ![gdb](https://img.shields.io/badge/gdb-0D1117.svg?style=for-the-badge&logo=gnu&logoColor=F5942C)
 ![Git](https://img.shields.io/badge/git-0D1117.svg?style=for-the-badge&logo=git&logoColor=F5942C)
 ![GitHub](https://img.shields.io/badge/github-0D1117.svg?style=for-the-badge&logo=github&logoColor=white)
+
+___
+
+[![Zedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroZappa&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroZappa&theme=dark&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
