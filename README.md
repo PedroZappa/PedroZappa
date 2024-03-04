@@ -16,8 +16,8 @@ I'm **Pedro Zappa**, I am a **_musician || developer_** studying at [42](https:/
 ![vim](https://img.shields.io/badge/neovim-0D1117.svg?style=for-the-badge&logo=neovim&logoColor=019733)
 ![tmux](https://img.shields.io/badge/tmux-0D1117.svg?style=for-the-badge&logo=tmux&logoColor=019733)
 ![gdb](https://img.shields.io/badge/gdb-0D1117.svg?style=for-the-badge&logo=gnu&logoColor=F5942C)
+![valgrind](https://img.shields.io/badge/%F3%B1%97%80%20%20valgrind-v?style=for-the-badge&logo=horse&labelColor=000&color=000)
 ![Git](https://img.shields.io/badge/git-0D1117.svg?style=for-the-badge&logo=git&logoColor=F5942C)
-![Static Badge](https://img.shields.io/badge/%F3%B1%97%80%20valgrind-v?style=for-the-badge&logo=horse&labelColor=000&color=000)
 
 ___
 
