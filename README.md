@@ -21,8 +21,14 @@ I'm **Pedro Zappa**, I am a **_musician || developer_** studying at [42](https:/
 
 ___
 
-<div align="center">
+## Stats :fire:
 
-[![Zedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroZappa&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<div id="stats" align="center">
 
+  ![General Badge](https://github-readme-streak-stats.herokuapp.com?user=PedroZappa&theme=dark&hide_border=false&date_format=j%20M%5B%20Y%5D)
+  
+  ![Zedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroZappa&theme=dark)
+  
+  ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroZappa&layout=compact&theme=dark)
+  
 </div>
