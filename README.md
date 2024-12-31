@@ -4,6 +4,7 @@ I'm **Pedro Zappa**, I am a **_musician || developer_** studying at [42](https:/
 
 ![shell](https://img.shields.io/badge/shell-0D1117.svg?style=for-the-badge&logo=gnu-bash&logoColor=3893F5)
 ![C](https://img.shields.io/badge/c-0D1117.svg?style=for-the-badge&logo=c&logoColor=3893F5)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-0D1117.svg?style=for-the-badge&logo=python&logoColor=3893F5)
 ![Lua](https://img.shields.io/badge/lua-0D1117.svg?style=for-the-badge&logo=lua&logoColor=3893F5)
 ![HTML5](https://img.shields.io/badge/html-0D1117.svg?style=for-the-badge&logo=html5&logoColor=F5942C)
