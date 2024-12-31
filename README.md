@@ -2,7 +2,7 @@ I'm **Pedro Zappa**, I am a **_musician || developer_** studying at [42](https:/
 
 ## Langs 📚
 
-![bash](https://img.shields.io/badge/shell-0D1117.svg?style=for-the-badge&logo=gnu-bash&logoColor=3893F5)
+![bash](https://img.shields.io/badge/bash-0D1117.svg?style=for-the-badge&logo=gnu-bash&logoColor=3893F5)
 ![C](https://img.shields.io/badge/c-0D1117.svg?style=for-the-badge&logo=c&logoColor=3893F5)
 ![C++](https://img.shields.io/badge/C++-0D1117.svg?style=for-the-badge&logo=c%2B%2B&logoColor=3893F5)
 ![Python](https://img.shields.io/badge/python-0D1117.svg?style=for-the-badge&logo=python&logoColor=3893F5)
