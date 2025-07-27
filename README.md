@@ -1,4 +1,4 @@
-I'm **Pedro Zappa**, I am a **_musician || developer_** studying at [42](https://42.fr) School.
+I'm **Pedro Zappa**, I am a **_musician || developer_** exploring creativity though software development.
 
 ## Langs 📚
 
