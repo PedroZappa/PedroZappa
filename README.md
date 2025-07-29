@@ -27,6 +27,7 @@ ___
 ![vim](https://img.shields.io/badge/neovim-0D1117.svg?style=for-the-badge&logo=neovim&logoColor=019733)
 ![tmux](https://img.shields.io/badge/tmux-0D1117.svg?style=for-the-badge&logo=tmux&logoColor=019733)
 
+![Markdown](https://img.shields.io/badge/markdown-0D1117.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 ### C/C++ Dev
 
@@ -66,8 +67,6 @@ ___
 ### Other Tools 
 ![Lua](https://img.shields.io/badge/lua-0D1117.svg?style=for-the-badge&logo=lua&logoColor=004daa)
 ![Nix](https://img.shields.io/badge/Nix-0D1117.svg?style=for-the-badge&logo=NixOS&logoColor=3893F5)
-
-![Markdown](https://img.shields.io/badge/markdown-0D1117.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 ![zsh](https://img.shields.io/badge/zsh-0D1117.svg?style=for-the-badge&logo=zsh&logoColor=3893F5)
 ![nushell](https://img.shields.io/badge/nushell-0D1117.svg?style=for-the-badge&logo=nushell&logoColor=3893F5)
