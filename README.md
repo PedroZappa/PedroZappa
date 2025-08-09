@@ -48,6 +48,8 @@ ___
 ![Black](https://img.shields.io/badge/black-0D1117.svg?style=for-the-badge&logo=black&logoColor=000)
 
 ### AI/ML Dev
+![Ollama](https://img.shields.io/badge/ollama-0D1117.svg?style=for-the-badge&logo=ollama&logoColor=#1C3C3C)
+
 ![LangChain](https://img.shields.io/badge/langchain-0D1117.svg?style=for-the-badge&logo=langchain&logoColor=#1C3C3C)
 ![ModelContextProtocol](https://img.shields.io/badge/mcp-0D1117.svg?style=for-the-badge&logo=modelcontextprotocol&logoColor=#1C3C3C)
 
